@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
 
 @layer base {
   h1,
@@ -46,3 +47,5 @@
     @apply hover:no-underline bg-blue-accent hover:bg-blue-accent-hover tracking-wider w-full text-center text-nav font-bold cursor-pointer px-4 py-2 rounded-md transition-colors block;
   }
 }
+=======
+>>>>>>> 2c9b2cf785d0cf22dc26fa2aaec0473be9ea3422

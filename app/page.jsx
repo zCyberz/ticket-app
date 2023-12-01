@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import TicketCard from './(components)/TicketCard'
 
 const getTickets = async () => {
@@ -44,3 +45,12 @@ const uniqueCategories = [
 }
 
 export default Dashboard
+=======
+import React from "react";
+
+const Dashboard = () => {
+  return <div>Dashboard</div>;
+};
+
+export default Dashboard;
+>>>>>>> 2c9b2cf785d0cf22dc26fa2aaec0473be9ea3422
